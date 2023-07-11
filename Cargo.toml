@@ -1,0 +1,9 @@
+[package]
+name = "db-crash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+sled = "0.34"
+redb = '1'
